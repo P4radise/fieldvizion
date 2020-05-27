@@ -1,9 +1,14 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
         "appIDs": [
           "NYX97QULV4.com.onevizion.mobiletrackor"
+        ],
+        "appID": "NYX97QULV4.com.onevizion.mobiletrackor",
+        "paths": [
+          "*"
         ]
       }
     ]
