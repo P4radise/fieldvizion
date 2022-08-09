@@ -34,5 +34,17 @@
         "8D:B9:B8:8A:C1:76:F1:E2:91:8F:00:06:86:A6:EC:6D:CB:8C:B3:1E:CC:B1:71:F0:96:97:48:75:E0:AD:9E:73"
       ]
     }
+  },
+    {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.onevizion.android.mobile.trackor.dev",
+      "sha256_cert_fingerprints": [
+        "89:4C:C9:53:35:2C:8E:EF:5E:3F:D0:04:32:E7:3C:D1:3F:6B:E7:06:31:C6:80:03:2F:96:D5:FE:6C:F2:EA:71"
+      ]
+    }
   }
 ]
