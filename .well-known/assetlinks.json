@@ -1,4 +1,28 @@
-[
+[  
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.onevizion.android.mobile.trackor",
+      "sha256_cert_fingerprints": [
+        "2B:06:9B:85:C2:E6:8D:54:7E:D0:D2:5B:FB:DC:D2:CE:7A:CD:D2:0B:E6:86:9E:7C:96:18:50:DF:A7:4F:B8:1B"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.onevizion.android.mobile.trackor.uat",
+      "sha256_cert_fingerprints": [
+        "8C:41:B1:3D:86:B1:38:40:79:9E:3C:9D:61:F6:0E:7E:63:3F:D2:9B:75:C5:40:1C:5F:F7:94:41:DA:C0:3B:C8"
+      ]
+    }
+  },
     {
     "relation": [
       "delegate_permission/common.handle_all_urls"
